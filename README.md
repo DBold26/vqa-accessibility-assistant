@@ -4,7 +4,7 @@
 - [Dana Bolden]
 
 ## Project Tier
-Tier 2: This project combines two AI components—computer vision and natural language processing (a Vision-Language Model)—working together to answer questions about images.
+Tier 2: This project combines two AI components, computer vision and natural language processing (a Vision-Language Model), working together to answer questions about images.
 
 ## Problem Statement
 People with visual impairments or individuals navigating complex visual data often need specific details about an image that standard alt-text doesn't provide. Standard captioning is passive, but users need an active way to ask targeted questions about their visual environment.
